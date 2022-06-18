@@ -1,0 +1,17 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/accessory.js": "components/accessory.js",
+    "components/banner.js": "components/banner.js",
+    "components/featured-product.js": "components/featured-product.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/accessory.js": "components/accessory.js.map",
+    "components/banner.js": "components/banner.js.map",
+    "components/featured-product.js": "components/featured-product.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
